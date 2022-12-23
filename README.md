@@ -2,8 +2,8 @@
 
 ## Projects associated with this course:
 1. Fashion MNIST
-2. Human Face Image Generator
-3. Augmentation With Image Generator
+2. Human or Horse
+3. Happy or Sad
 4. Transfer Learning
 5. Rock, Paper, Scissors
 6. Cat vs Dog
